@@ -1,4 +1,6 @@
-# My-Code
+# My Code Repository
 Cool things I've coded.
-email: badari.rishikesh@gmail.com
-instagram: @airbadari
+
+My email: badari.rishikesh@gmail.com
+
+My Instagram: @airbadari
